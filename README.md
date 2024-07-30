@@ -1,4 +1,4 @@
-# hixreted ([freebasic](https://www.freebasic.net/))
+# Hixreted ([freebasic](https://www.freebasic.net/))
 
 Hixreted is a term used in the context of the programming language Rust, referring to the concept of "hiding" or "shadowing" a variable with the same name in a nested scope. This can lead to confusion and unexpected behavior if not handled carefully.
 
